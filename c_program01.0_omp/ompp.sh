@@ -1,0 +1,1 @@
+export OMPP_APPNAME=hdopenmp

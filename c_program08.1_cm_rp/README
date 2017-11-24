@@ -1,0 +1,7 @@
+1) Se hace uso de la memoria constante para almacenar las variables escalares rdx, rdy
+
+2) Se usó punteros restringidos para aliviar el problema de aliasing
+
+Parece no haber mejora conseguida
+
+

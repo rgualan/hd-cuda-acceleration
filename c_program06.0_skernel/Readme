@@ -1,0 +1,3 @@
+Intenta reducir el tiempo de ejecucion, mediante la creacion de kernels CUDA más concetrados a explotar los calculos paralelos.
+
+Se evita el uso de condicionales dentro del kernel
